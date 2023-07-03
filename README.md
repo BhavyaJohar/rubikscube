@@ -1,5 +1,5 @@
 # rubikscube
-Virtual Rubik's Cube
+Virtual Rubik's Cube.
 This is a virtual rubik's cube built in processing using java. The cube is formed using vectors and matrices. 
 Controls:
 space bar = scramble cube
